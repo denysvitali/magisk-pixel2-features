@@ -27,4 +27,5 @@ adb shell su -c 'am start com.google.intelligence.sense/com.google.intelligence.
 - [Kieron Quinn](https://twitter.com/Quinny898) for providing the initial `matcher.leveldb`
 - [/u/Devil_Vagina_Magic](https://www.reddit.com/user/Devil_Vagina_Magic) for some needed screens and files
 - [/u/Lurking_Grue](https://www.reddit.com/user/Lurking_Grue) for providing some of the files
+- [/u/Parmon](https://www.reddit.com/user/Parmon) for providing some of the files
 - [Peter Sanchez](https://twitter.com/PeterSanchez) for being helpful :)
