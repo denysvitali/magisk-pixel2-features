@@ -1,15 +1,32 @@
 # Pixel 2 Features
 
-**Still in development...**  
+**Still in development..., we need libsense.so!**  
 *Requires Magisk v1.4.10+* (for no particular reason)
 
+## Requirements
+- Android 8.0+
+- arm64 device (yes, N5X, N6P, Pixel 1, Pixel 1 XL are arm64)
+- Magisk Root
+- Time
+
 ## Build the module
+
+(Or you know, [click here](https://github.com/denysvitali/magisk-pixel2-features/archive/master.zip))
+
 ```
 zip -x '.git*' -r /tmp/pixel2-features.zip .
+```
+
+## Push the module to your device
+```
 adb push /tmp/pixel2-features.zip /sdcard/
 ```
 
-Then install from `/sdcard/pixel2-features.zip`, reboot and enjoy.
+## Install module
+
+Open Magisk Manager, install `/sdcard/pixel2-features.zip`, reboot and enjoy.
+
+## Post install setup
 
 You may need to:  
 ```
