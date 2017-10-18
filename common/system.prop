@@ -1,3 +1,16 @@
 # This file will be read by resetprop
 # Example: Change dpi
 # ro.sf.lcd_density=320
+
+ro.product.manufacturer=Google
+ro.product.model=Pixel 2 XL
+ro.build.product=taimen
+ro.product.device=taimen
+ro.product.name=taimen
+ro.product.board=taimen
+ro.build.flavor=taimen-user
+
+ro.build.description=taimen-user 8.0.0 OPD2.170816.010 4299446 release-keys
+ro.build.display.id=OPD2.170816.010
+ro.build.fingerprint=google/taimen/taimen:8.0.0/OPD2.170816.010/4299446:user/release-keys
+ro.build.id=OPD2.170816.010

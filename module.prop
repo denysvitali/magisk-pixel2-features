@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=pixel2-features
+name=Pixel 2 Features
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=denvit
+description=Pixel 2 Features (Music Matching, Lenses) for any arm64 device
 template=1410
