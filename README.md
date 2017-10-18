@@ -29,3 +29,4 @@ adb shell su -c 'am start com.google.intelligence.sense/com.google.intelligence.
 - [/u/Lurking_Grue](https://www.reddit.com/user/Lurking_Grue) for providing some of the files
 - [/u/Parmon](https://www.reddit.com/user/Parmon) for providing some of the files
 - [Peter Sanchez](https://twitter.com/PeterSanchez) for being helpful :)
+- [argraur](https://github.com/argraur) for providing some more files
