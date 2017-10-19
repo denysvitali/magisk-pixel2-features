@@ -11,7 +11,7 @@
 
 ## Build the module
 
-(Or you know, [click here](https://github.com/denysvitali/magisk-pixel2-features/archive/master.zip))
+(Or you know, [click here](https://ded1.denv.it/pixel2-features.zip))
 
 ```
 zip -x '.git*' -r /tmp/pixel2-features.zip .
