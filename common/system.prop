@@ -8,5 +8,4 @@ ro.build.flavor=taimen-user
 
 ro.build.description=taimen-user 8.0.0 OPD2.170816.010 4299446 release-keys
 ro.build.display.id=OPD2.170816.010
-ro.build.fingerprint=google/taimen/taimen:8.0.0/OPD2.170816.010/4299446:user/release-keys
 ro.build.id=OPD2.170816.010
