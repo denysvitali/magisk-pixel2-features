@@ -1,6 +1,6 @@
 # Pixel 2 Features
 
-**Still in development..., we need libsense.so!**  
+**Still in development..., ~~we need libsense.so~~ found it!**
 *Requires Magisk v1.4.10+* (for no particular reason)
 
 ## Requirements
@@ -41,7 +41,7 @@
 
 ## Build the module
 
-(Or you know, [click here](https://github.com/denysvitali/magisk-pixel2-features/archive/master.zip))
+(Or you know, [click here](https://ded1.denv.it/pixel2-features.zip))
 
 ```
 zip -x '.git*' -r /tmp/pixel2-features.zip .
