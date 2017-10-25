@@ -6,6 +6,20 @@ ro.product.name=taimen
 ro.product.board=taimen
 ro.build.flavor=taimen-user
 
-ro.build.description=taimen-user 8.0.0 OPD2.170816.010 4299446 release-keys
-ro.build.display.id=OPD2.170816.010
-ro.build.id=OPD2.170816.010
+#ro.build.description=taimen-user 8.0.0 OPD2.170816.010 4299446 release-keys
+#ro.build.display.id=OPD2.170816.010
+#ro.build.id=OPD2.170816.010
+
+#ro.build.id=OPD3.170816.012
+#ro.build.display.id=OPD3.170816.012
+#ro.build.version.incremental=4343094
+#ro.build.description=taimen-user 8.0.0 OPD3.170816.012 4343094 release-keys
+#
+ro.build.version.sdk=27
+ro.build.version.preview_sdk=0
+ro.build.version.release=8.1.0
+ro.build.version.security_patch=2017-10-05
+ro.build.type=user
+ro.build.user=android-build
+ro.build.host=wphq1.hot.corp.google.com
+
