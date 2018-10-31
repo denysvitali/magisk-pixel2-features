@@ -1,5 +1,8 @@
 # Pixel 2 Features
 
+**Fix for Magisk 17+ work**
+
+
 **Still in development..., ~~we need libsense.so~~ found it!**
 *Requires Magisk v1.4.10+* (for no particular reason)
 
